@@ -10,14 +10,14 @@ Studying right now:
 
 Next steps:
 
-    - Curso SQL. https://www.youtube.com/playlist?list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn
-    - JSP, Servlets and JDBC https://www.udemy.com/course/jsp-tutorial/
-    - Javascript/Angular
+- Curso SQL. https://www.youtube.com/playlist?list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn
+- JSP, Servlets and JDBC https://www.udemy.com/course/jsp-tutorial/
+- Javascript/Angular
 
 Finished:
 
-    - Spring Boot Tutorial: https://www.freecodecamp.org/news/spring-boot-tutorial/
-    - Java Functional Programming | Full Course | 2020 https://www.youtube.com/watch?v=VRpHdSFWGPs
-    - Git Complete: The definitive, step-by-step guide to Git https://www.udemy.com/course/git-complete/
-    - Spring https://www.udemy.com/course/spring-hibernate-tutorial/,
+- Spring Boot Tutorial: https://www.freecodecamp.org/news/spring-boot-tutorial/
+- Java Functional Programming | Full Course | 2020 https://www.youtube.com/watch?v=VRpHdSFWGPs
+- Git Complete: The definitive, step-by-step guide to Git https://www.udemy.com/course/git-complete/
+- Spring https://www.udemy.com/course/spring-hibernate-tutorial/,
 
