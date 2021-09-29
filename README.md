@@ -5,14 +5,17 @@
     📫 How to reach me. My email: erikdell@gmail.com
 
 Studying right now:
-    - JUnit https://www.udemy.com/course/curso-completo-junit-mockito-spring-boot-test/
+
+- JUnit https://www.udemy.com/course/curso-completo-junit-mockito-spring-boot-test/
 
 Next steps:
+
     - Curso SQL. https://www.youtube.com/playlist?list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn
     - JSP, Servlets and JDBC https://www.udemy.com/course/jsp-tutorial/
     - Javascript/Angular
 
 Finished:
+
     - Spring Boot Tutorial: https://www.freecodecamp.org/news/spring-boot-tutorial/
     - Java Functional Programming | Full Course | 2020 https://www.youtube.com/watch?v=VRpHdSFWGPs
     - Git Complete: The definitive, step-by-step guide to Git https://www.udemy.com/course/git-complete/
