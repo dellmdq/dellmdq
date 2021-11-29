@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Spring MVC, AOP, Hibernate, Java Functional, Streams(), and a lot more fun Java Stuff!!
 - 💞️ I’m looking to collaborate on Java Projects. I'm open to interships so i can keep learning and get my first job opportunity as a Java Developer.
 - 📫 How to reach me. My email: erikdell@gmail.com
-- 💻 Link to my resume:https://dellmdq.github.io/resume/
+- 💻 Link to my resume: https://dellmdq.github.io/resume/
 
 Studying right now:
 
