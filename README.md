@@ -7,8 +7,7 @@
 
 Studying right now:
 
-- Alkemy Java Bootcamp. https://www.alkemy.org/
-- JUnit https://www.udemy.com/course/curso-completo-junit-mockito-spring-boot-test/
+
 
 Next steps:
 
@@ -22,4 +21,5 @@ Finished:
 - Java Functional Programming | Full Course | 2020 https://www.youtube.com/watch?v=VRpHdSFWGPs
 - Git Complete: The definitive, step-by-step guide to Git https://www.udemy.com/course/git-complete/
 - Spring https://www.udemy.com/course/spring-hibernate-tutorial/,
-
+- Alkemy Java Bootcamp. https://www.alkemy.org/
+- JUnit https://www.udemy.com/course/curso-completo-junit-mockito-spring-boot-test/
