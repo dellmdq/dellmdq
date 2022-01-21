@@ -11,7 +11,6 @@ Studying right now:
 
 Next steps:
 
-- Curso SQL. https://www.youtube.com/playlist?list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn
 - JSP, Servlets and JDBC https://www.udemy.com/course/jsp-tutorial/
 - Javascript/Angular
 
