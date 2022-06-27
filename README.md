@@ -5,14 +5,12 @@
 - 💻 Link to my resume: https://dellmdq.github.io/resume/
 
 Studying right now:
-- Microservicios con Spring Boot y Spring Cloud Netflix Eureka https://www.udemy.com/course/microservicios-con-spring-boot-y-spring-cloud/
-
-
+- JSP, Servlets and JDBC https://www.udemy.com/course/jsp-tutorial/
+- Javascript/Angular
 
 Next steps:
 
-- JSP, Servlets and JDBC https://www.udemy.com/course/jsp-tutorial/
-- Javascript/Angular
+
 
 Finished:
 
@@ -22,3 +20,4 @@ Finished:
 - Spring https://www.udemy.com/course/spring-hibernate-tutorial/,
 - Alkemy Java Bootcamp. https://www.alkemy.org/
 - JUnit https://www.udemy.com/course/curso-completo-junit-mockito-spring-boot-test/
+- Microservicios con Spring Boot y Spring Cloud Netflix Eureka https://www.udemy.com/course/microservicios-con-spring-boot-y-spring-cloud/
