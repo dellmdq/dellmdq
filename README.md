@@ -5,15 +5,14 @@
 - 💻 Link to my resume: https://dellmdq.github.io/resume/
 
 Studying right now:
-- JSP, Servlets and JDBC https://www.udemy.com/course/jsp-tutorial/
-- Javascript/Angular
+- Javascript/Angular https://www.udemy.com/course/the-complete-javascript-course/
 
 Next steps:
 
 
 
 Finished:
-
+- JSP, Servlets and JDBC https://www.udemy.com/course/jsp-tutorial/
 - Spring Boot Tutorial: https://www.freecodecamp.org/news/spring-boot-tutorial/
 - Java Functional Programming | Full Course | 2020 https://www.youtube.com/watch?v=VRpHdSFWGPs
 - Git Complete: The definitive, step-by-step guide to Git https://www.udemy.com/course/git-complete/
